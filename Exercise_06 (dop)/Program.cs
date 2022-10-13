@@ -2,6 +2,7 @@
 Вывести массив изначальный и массив с отсортированными нечетными столбцами */
 
 
+
 int[,] array = GetArray(4, 4, 1, 9); 
 PrintArray(array);
 Console.WriteLine();
